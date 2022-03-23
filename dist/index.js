@@ -1,0 +1,13 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+let str = 'Hello TypeScript!';
+let num = 123;
+let flag = false;
+let undef = undefined;
+let nul = null;
+console.log(str);
+console.log(num);
+console.log(flag);
+console.log(undef);
+console.log(nul);
+exports.default = {};
